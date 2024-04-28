@@ -1,0 +1,33 @@
+body{
+    background-color: coral;
+    font-family:'Roboto', sans-serif;
+font-size:xx-large;
+}
+h1,h2,h3{
+    text-align: center;
+}
+p{
+    color: whitesmoke;
+    font-size: 30px;
+}
+div h2{
+    color:yellowgreen;
+
+}
+
+#parrafo-especial{
+font-size: 50px;
+}
+
+.parrafo{
+    color: black; 
+    font-style: italic;
+}
+
+a img{
+    display: block;
+}
+
+a{
+    margin: 5%;
+}
